@@ -1,0 +1,19 @@
+.list-group {
+
+  .create-bar-component {
+    background: #81afcc;
+    color: #ffffff;
+    &:hover, &:focus{
+      cursor: pointer;
+      background: darken(#81afcc, 20%);
+      color: #ffffff;
+    }
+  }
+
+  .item-component{
+
+  }
+
+
+}
+

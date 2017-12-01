@@ -1,0 +1,33 @@
+.item-editor-component {
+  padding: 10px;
+  border-top: 1px solid #efefef;
+  position: relative; }
+  .item-editor-component .control-area {
+    position: absolute;
+    top: 0;
+    right: 0; }
+    .item-editor-component .control-area button {
+      width: 68px;
+      display: inline-block;
+      margin: 10px 10px; }
+  .item-editor-component .edit-area input, .item-editor-component .edit-area textarea {
+    border: 1px solid #efefef;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    display: block; }
+  .item-editor-component .edit-area input {
+    padding: 0 10px;
+    line-height: 40px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 60%;
+    margin-bottom: 10px; }
+  .item-editor-component .edit-area textarea {
+    padding: 10px;
+    width: 60%;
+    line-height: 1.4em;
+    height: 300px; }
+
+/*# sourceMappingURL=style.css.map */

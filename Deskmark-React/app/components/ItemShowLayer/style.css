@@ -1,0 +1,20 @@
+.item-show-layer-component {
+  padding: 10px;
+  border-top: 1px solid #efefef;
+  position: relative; }
+  .item-show-layer-component .no-select {
+    font-size: 30px;
+    height: 300px;
+    line-height: 300px;
+    color: #ccc;
+    text-align: center; }
+  .item-show-layer-component .control-area {
+    position: absolute;
+    top: 0;
+    right: 0; }
+    .item-show-layer-component .control-area button {
+      width: 68px;
+      display: inline-block;
+      margin: 10px; }
+
+/*# sourceMappingURL=style.css.map */
